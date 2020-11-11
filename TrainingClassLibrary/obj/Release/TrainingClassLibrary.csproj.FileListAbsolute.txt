@@ -1,0 +1,5 @@
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\TrainingClassLibrary\bin\Release\TrainingClassLibrary.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\TrainingClassLibrary\bin\Release\TrainingClassLibrary.pdb
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\TrainingClassLibrary\obj\Release\TrainingClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\TrainingClassLibrary\obj\Release\TrainingClassLibrary.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\TrainingClassLibrary\obj\Release\TrainingClassLibrary.pdb

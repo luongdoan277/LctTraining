@@ -1,0 +1,13 @@
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\bin\Debug\LctTraining.exe.config
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\bin\Debug\LctTraining.exe
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\bin\Debug\LctTraining.pdb
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\obj\Debug\LctTraining.csprojResolveAssemblyReference.cache
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\obj\Debug\LctTraining.exe
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\obj\Debug\LctTraining.pdb
+C:\Users\luong doan\source\repos\LctTraining\LctTraining\bin\Debug\LctTraining.exe.config
+C:\Users\luong doan\source\repos\LctTraining\LctTraining\bin\Debug\LctTraining.exe
+C:\Users\luong doan\source\repos\LctTraining\LctTraining\bin\Debug\LctTraining.pdb
+C:\Users\luong doan\source\repos\LctTraining\LctTraining\obj\Debug\LctTraining.csprojAssemblyReference.cache
+C:\Users\luong doan\source\repos\LctTraining\LctTraining\obj\Debug\LctTraining.csproj.CoreCompileInputs.cache
+C:\Users\luong doan\source\repos\LctTraining\LctTraining\obj\Debug\LctTraining.exe
+C:\Users\luong doan\source\repos\LctTraining\LctTraining\obj\Debug\LctTraining.pdb

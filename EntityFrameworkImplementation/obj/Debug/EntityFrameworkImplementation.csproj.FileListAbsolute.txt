@@ -1,0 +1,10 @@
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\EntityFrameworkImplementation\bin\Debug\EntityFrameworkImplementation.exe.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\EntityFrameworkImplementation\bin\Debug\EntityFrameworkImplementation.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\EntityFrameworkImplementation\bin\Debug\EntityFrameworkImplementation.pdb
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\EntityFrameworkImplementation\bin\Debug\EntityFramework.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\EntityFrameworkImplementation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\EntityFrameworkImplementation\bin\Debug\EntityFramework.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\EntityFrameworkImplementation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\EntityFrameworkImplementation\obj\Debug\EntityFrameworkImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\EntityFrameworkImplementation\obj\Debug\EntityFrameworkImplementation.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\EntityFrameworkImplementation\obj\Debug\EntityFrameworkImplementation.pdb

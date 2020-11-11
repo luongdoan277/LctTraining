@@ -1,0 +1,13 @@
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\TrainingWcfService\bin\TrainingWcfService.dll.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\TrainingWcfService\bin\TrainingWcfService.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\TrainingWcfService\bin\TrainingWcfService.pdb
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\TrainingWcfService\obj\Debug\TrainingWcfService.csprojResolveAssemblyReference.cache
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\TrainingWcfService\obj\Debug\TrainingWcfService.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\TrainingWcfService\obj\Debug\TrainingWcfService.pdb
+C:\Users\luong doan\source\repos\LctTraining\TrainingWcfService\bin\TrainingWcfService.dll.config
+C:\Users\luong doan\source\repos\LctTraining\TrainingWcfService\bin\TrainingWcfService.dll
+C:\Users\luong doan\source\repos\LctTraining\TrainingWcfService\bin\TrainingWcfService.pdb
+C:\Users\luong doan\source\repos\LctTraining\TrainingWcfService\obj\Debug\TrainingWcfService.csprojAssemblyReference.cache
+C:\Users\luong doan\source\repos\LctTraining\TrainingWcfService\obj\Debug\TrainingWcfService.csproj.CoreCompileInputs.cache
+C:\Users\luong doan\source\repos\LctTraining\TrainingWcfService\obj\Debug\TrainingWcfService.dll
+C:\Users\luong doan\source\repos\LctTraining\TrainingWcfService\obj\Debug\TrainingWcfService.pdb

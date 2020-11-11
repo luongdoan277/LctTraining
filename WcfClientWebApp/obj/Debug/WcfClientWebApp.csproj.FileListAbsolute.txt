@@ -1,0 +1,126 @@
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\ApplicationInsights.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\csc.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\csc.exe.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\csc.rsp
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\csi.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\csi.rsp
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\vbc.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\vbc.rsp
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\WcfClientWebApp.dll.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\WcfClientWebApp.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\WcfClientWebApp.pdb
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\System.Web.Optimization.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\WebGrease.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\System.Web.Optimization.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\obj\Debug\WcfClientWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\obj\Debug\WcfClientWebApp.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\WcfClientWebApp\obj\Debug\WcfClientWebApp.pdb
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\ApplicationInsights.config
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\csc.exe
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\csc.exe.config
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\csc.rsp
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\csi.exe
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\csi.rsp
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\vbc.exe
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\vbc.exe.config
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\vbc.rsp
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\WcfClientWebApp.dll.config
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\WcfClientWebApp.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\WcfClientWebApp.pdb
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Antlr3.Runtime.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Newtonsoft.Json.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\System.Web.Optimization.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\WebGrease.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\System.Web.Optimization.xml
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Newtonsoft.Json.xml
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\obj\Debug\WcfClientWebApp.csprojAssemblyReference.cache
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\obj\Debug\WcfClientWebApp.csproj.CoreCompileInputs.cache
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\obj\Debug\WcfClientWebApp.csproj.CopyComplete
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\obj\Debug\WcfClientWebApp.dll
+C:\Users\luong doan\source\repos\LctTraining\WcfClientWebApp\obj\Debug\WcfClientWebApp.pdb

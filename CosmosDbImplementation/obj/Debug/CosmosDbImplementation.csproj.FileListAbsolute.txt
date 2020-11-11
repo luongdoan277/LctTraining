@@ -1,0 +1,12 @@
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\bin\Debug\CosmosDbImplementation.exe.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\bin\Debug\CosmosDbImplementation.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\bin\Debug\CosmosDbImplementation.pdb
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\obj\Debug\CosmosDbImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\obj\Debug\CosmosDbImplementation.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDbImplementation\obj\Debug\CosmosDbImplementation.pdb
